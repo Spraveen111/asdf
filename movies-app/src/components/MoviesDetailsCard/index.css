@@ -1,0 +1,24 @@
+.title{
+    font-size: 30px;
+    font-weight: 600;
+}
+.unList{
+    list-style-type: none;
+    margin: 30px;
+}
+.listContainer{
+    display: flex;
+    flex-direction: row;
+    background-color: #B9D0D0;
+    align-items: center;
+    padding: 40px;
+    border-radius: 10px;
+}
+.imageContainer{
+    height: 300px;
+    width: 200px;
+}
+.listContainer3{
+width: 60%;
+padding-left: 20px;
+}
